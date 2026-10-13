@@ -1,0 +1,349 @@
+{
+ "m": [
+  {
+   "t": "Limonadas y Jugos",
+   "tab": "Limonadas",
+   "s": "Frescas, para el calor de la tarde",
+   "i": [
+    [
+     "Limonada Natural",
+     7000,
+     "",
+     1,
+     0
+    ],
+    [
+     "Limonada de Coco",
+     9000
+    ],
+    [
+     "Limonada de Cereza",
+     9000
+    ],
+    [
+     "Jugos en Agua",
+     9000
+    ],
+    [
+     "Jugos en Leche",
+     10000
+    ]
+   ]
+  },
+  {
+   "t": "Calientes",
+   "tab": "Calientes",
+   "s": "Cafés, chocolates y con licor",
+   "i": [
+    {
+     "h": "Cafés"
+    },
+    [
+     "Tinto",
+     1500
+    ],
+    [
+     "Americano",
+     3000
+    ],
+    [
+     "Espresso Sencillo",
+     4000
+    ],
+    [
+     "Espresso Doble",
+     6000
+    ],
+    [
+     "Café con Leche",
+     4000
+    ],
+    [
+     "Capuchino",
+     6000
+    ],
+    [
+     "Capuchino Brownie",
+     7000
+    ],
+    [
+     "Capuchino Caramelo",
+     7000
+    ],
+    [
+     "Mocaccino",
+     7000
+    ],
+    [
+     "Latte Machiato",
+     7000
+    ],
+    [
+     "Colada de Café",
+     7000
+    ],
+    [
+     "Colada Tradicional",
+     6000
+    ],
+    [
+     "Affogato",
+     9000,
+     "",
+     1
+    ],
+    {
+     "h": "Chocolate y aromáticas"
+    },
+    [
+     "Milo",
+     5000
+    ],
+    [
+     "Milo con Masmelo",
+     6000
+    ],
+    [
+     "Chocolate con Masmelo",
+     6000
+    ],
+    [
+     "Aromática frutas deshidratadas",
+     6000
+    ],
+    [
+     "Aromática bolsa",
+     3000
+    ],
+    {
+     "h": "Con licor"
+    },
+    [
+     "Migote",
+     14000,
+     "Con licor"
+    ],
+    [
+     "Carajillo",
+     8000,
+     "Aguardiente, ron o brandy"
+    ],
+    [
+     "Capuchino con Licor",
+     10000,
+     "Whisky, amaretto o ron"
+    ]
+   ]
+  },
+  {
+   "t": "Bebidas Frías",
+   "tab": "Frías",
+   "s": "Malteadas, granizados, micheladas y gaseosas",
+   "i": [
+    {
+     "h": "Malteadas y nevados"
+    },
+    [
+     "Malteada pequeña",
+     10000
+    ],
+    [
+     "Malteada grande",
+     16000
+    ],
+    [
+     "Granizado",
+     12000,
+     "Café, milo, mango biche o maracuyá"
+    ],
+    [
+     "Nevado fantasía de café",
+     13000
+    ],
+    [
+     "Nevado de arequipe",
+     14000,
+     "Con licor: whisky o piña colada"
+    ],
+    [
+     "Milo frío",
+     9000
+    ],
+    [
+     "Capuchino frío",
+     11000
+    ],
+    {
+     "h": "Micheladas y refrescos"
+    },
+    [
+     "Soda michelada saborizada",
+     13000
+    ],
+    [
+     "Tamarindo michelado",
+     7000
+    ],
+    [
+     "Tamarindo envenenado",
+     12000,
+     "Con alcohol"
+    ],
+    [
+     "Gaseosa Tamarindo",
+     5000
+    ],
+    [
+     "Coca-Cola",
+     5000
+    ],
+    [
+     "Jugos Hit",
+     4000
+    ],
+    [
+     "Agua",
+     2000
+    ],
+    [
+     "Pony Malta",
+     4000
+    ],
+    [
+     "Gatorade",
+     5000
+    ],
+    [
+     "Bretaña",
+     4000
+    ]
+   ]
+  },
+  {
+   "t": "Cervezas",
+   "tab": "Cervezas",
+   "s": "Bien frías",
+   "i": [
+    {
+     "h": "Botella"
+    },
+    [
+     "Águila Light",
+     5000
+    ],
+    [
+     "Corona",
+     7000
+    ],
+    [
+     "Coronita",
+     5000
+    ],
+    [
+     "Poker",
+     5000
+    ],
+    [
+     "Pilsen",
+     5000
+    ],
+    [
+     "Club Colombia",
+     null,
+     "Roja o dorada · consultar precio"
+    ],
+    [
+     "Cerveza Saborizada",
+     14000
+    ],
+    [
+     "Cerveza Mango Biche",
+     15000
+    ],
+    {
+     "h": "Michelada"
+    },
+    [
+     "Pilsen · Águila · Poker",
+     6000
+    ],
+    [
+     "Corona · Club Colombia",
+     8000
+    ],
+    [
+     "Bretaña",
+     6000
+    ]
+   ]
+  },
+  {
+   "t": "Helados y Postres",
+   "tab": "Helados",
+   "s": "Para cerrar con algo dulce",
+   "i": [
+    [
+     "Copa de Helado",
+     11000
+    ],
+    [
+     "Cono de Helado",
+     4000
+    ],
+    [
+     "Brownie con Helado",
+     10000
+    ],
+    [
+     "Fresas con Crema",
+     16000
+    ],
+    [
+     "Ensalada de Frutas",
+     15000
+    ],
+    [
+     "Copa de Queso",
+     14000
+    ]
+   ]
+  },
+  {
+   "t": "Sabores de helado",
+   "tab": "Sabores",
+   "s": "Los sabores de hoy",
+   "fl": 1,
+   "i": []
+  },
+  {
+   "t": "Menú Infantil",
+   "tab": "Infantil",
+   "s": "Para los más pequeños de la mesa",
+   "i": [
+    [
+     "Payaso Plim Plim",
+     11000
+    ],
+    [
+     "Pulpo",
+     11000
+    ],
+    [
+     "Osito Vetta",
+     12000
+    ],
+    [
+     "Granizado para Niños",
+     10000
+    ]
+   ]
+  }
+ ],
+ "star": {
+  "k": "Producto estrella",
+  "t": "",
+  "d": "",
+  "p": null,
+  "img": ""
+ }
+}
